@@ -1,3 +1,3 @@
 # Image-classification
 
-Classify images into 8 categories using KNN and SVM.
+Extract image features using denseSIFT features and PCA and classify images into 8 categories using KNN and SVM.
